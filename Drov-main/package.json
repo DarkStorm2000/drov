@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "nouislider": "^15.7.0"
+  }
+}
